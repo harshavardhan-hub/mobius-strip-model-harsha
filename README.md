@@ -11,12 +11,10 @@ This Python script models a Möbius strip using parametric equations. It numeric
 ## 📌 Parametric Equations Used
 
 x(u,v) = (R + v * cos(u/2)) * cos(u)
-y(u,v) = (R + v * cos(u/2)) * sin(u)
-z(u,v) = v * sin(u/2)
 
-markdown
-Copy
-Edit
+y(u,v) = (R + v * cos(u/2)) * sin(u)
+
+z(u,v) = v * sin(u/2)
 
 
 ## 🔧 How to Run
