@@ -1,4 +1,4 @@
-# Möbius Strip Modeling Assignment
+# Mobius Strip Modeling Assignment
 
 ## 🔷 Description
 
