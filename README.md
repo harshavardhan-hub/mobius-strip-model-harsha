@@ -2,7 +2,7 @@
 
 ## 🔷 Description
 
-This Python script models a Möbius strip using parametric equations. It numerically estimates:
+This Python script models a Mobius strip using parametric equations. It numerically estimates:
 
 - The **surface area** using cross product integration
 - The **edge length** by summing distances between edge points
